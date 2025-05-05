@@ -10,5 +10,6 @@ Apply the artistic style of one image (e.g., a famous painting) to the content o
 3. https://towardsdatascience.com/how-do-neural-style-transfers-work-b76de101eb3?gi=876d3085e76d
 <br>
 <br> Final Image:
-<br> ![stylized_result](https://github.com/user-attachments/assets/6c5bd805-9741-41d6-9554-25b070748307)
+<br>![stylized_result](https://github.com/user-attachments/assets/7228d6db-53d5-42ec-96a8-14d08895a4ce)
+
 
